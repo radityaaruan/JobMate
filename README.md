@@ -47,3 +47,8 @@
 2. Install dependencies using:
    ```bash
    pip install -r requirements.txt
+
+---
+## Hugging Face Visualization
+   
+      https://huggingface.co/spaces/radityaruan/JobMate/tree/main
