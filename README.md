@@ -1,54 +1,71 @@
-# JobMate: AI-Powered Job Search Assistant
+# 👔 JobMate - Your Career Management Solution
 
-**JobMate** is an AI-powered job search assistant designed to simplify the job hunting process by delivering personalized job recommendations. This project combines intelligent data processing, interactive user interfaces, and exploratory data analysis (EDA) to create a seamless experience for job seekers.
+![JobMate Banner]([https://your-image-url.com/banner.pn](https://cdn.discordapp.com/attachments/1317028240707158016/1318871309941342249/JobMate.png?ex=67a133df&is=679fe25f&hm=818dd45fdace6ec4314be787d9539fcbc18e0e0fe1e86183dbe1ada17df6422d&)g)
 
-## Key Features
-
-1. **Job Search Assistant**:
-   - Interactive chatbot interface to collect user preferences and deliver job recommendations.
-   - Leverages OpenAI's GPT to analyze preferences and extract insights from user conversations and resumes.
-   - Integrates MongoDB to store and query job-related data.
-
-2. **Resume Parsing**:
-   - Extracts skills from uploaded resumes (PDF format) using OpenAI's GPT.
-   - Combines parsed skills with user-provided inputs for accurate job matching.
-
-3. **Job Categorization and Analysis**:
-   - Categorizes job listings into key domains like Data Analyst, Data Scientist, Data Engineer, and Freelance.
-   - Analyzes job demand trends, top skills required, and the most active hiring companies.
-
-4. **Exploratory Data Analysis (EDA)**:
-   - Visualizes job distributions, demand for specific roles, and location-based opportunities using Matplotlib and Seaborn.
-   - Identifies top companies hiring and most in-demand skills in the tech industry.
-
-5. **Streamlit-based Interface**:
-   - Clean, intuitive web interface with a sidebar navigation menu for switching between JobMate and EDA features.
-   - Displays dynamic visualizations and allows user interaction for a personalized experience.
+Welcome to **JobMate** – a job application tracker and career management platform that helps job seekers stay organized, monitor their applications, and gain insights into their job search progress. 🚀
 
 ---
 
-## File Structure
+## 📌 Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Demo](#demo)
+- [Contributing](#contributing)
+- [Contact](#contact)
 
-- **`app.py`**: Main entry point for the application, managing navigation between JobMate and EDA.
-- **`chatme.py`**: Implements the AI-powered job search assistant with chat-based interaction and resume parsing.
-- **`eda.py`**: Handles the EDA functionality, providing visual insights into job trends and data.
-- **`job_data.csv`**: Contains job listing data used for analysis and recommendations.
+---
+
+## 📖 Overview
+JobMate is designed to streamline job tracking with a user-friendly interface and insightful analytics. Whether you're actively applying for jobs or passively tracking career opportunities, JobMate provides an **all-in-one** solution to **boost productivity** and **stay organized** in your job search.
 
 ---
 
-## Getting Started
-
-### Prerequisites
-- Python 3.9 or higher.
-- Libraries: `streamlit`, `openai`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `pymongo`, `PyPDF2`, `plotly`.
-
-### Installation
-1. Clone the repository.
-2. Install dependencies using:
-   ```bash
-   pip install -r requirements.txt
+## ✨ Features
+✅ **Job Application Tracking** – Keep a structured log of job applications, statuses, and outcomes.  
+✅ **AI-Powered Job Recommendations** – Receive insights on jobs that align with your skills.  
+✅ **Interview Scheduler** – Plan and set reminders for upcoming interviews.  
+✅ **Resume & Cover Letter Manager** – Store and manage important job documents.  
+✅ **Analytics Dashboard** – Visualize job application success rates with interactive charts.  
+✅ **Company Research Notes** – Save key information on companies for future reference.  
 
 ---
-## Hugging Face Visualization
-   
-      https://huggingface.co/spaces/radityaruan/JobMate/tree/main
+
+## 🎥 Deployment
+📌 **Hugging Face**: (https://cdn.discordapp.com/attachments/1317028240707158016/1319500970282975303/Screenshot_2024-12-20_at_09.49.42.png?ex=67a1840a&is=67a0328a&hm=a08dacb7771b0174734b2b1cac470113de1fe87c598bf237c4d9990e41069e35&))  
+📽️ **Link**: ![JobMate Demo](https://your-image-url.com/demo.gif)
+
+---
+
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3.9-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-1.40-red) ![MongoDB](https://img.shields.io/badge/MongoDB-4.10-green) ![Pandas](https://img.shields.io/badge/Pandas-2.1.4-orange) ![OpenAI](https://img.shields.io/badge/OpenAI-0.28-blue)
+
+---
+
+## 🖥️ Usage
+1. **Sign Up/Login** – Register using email or Google authentication.
+2. **Add Job Applications** – Enter job details such as company, role, and application status.
+3. **Monitor Progress** – Track interview stages and update statuses.
+4. **Analyze Job Trends** – View success rate insights and application stats.
+5. **Manage Documents** – Store and retrieve resumes, cover letters, and notes.
+
+---
+
+## 🤝 Contributing
+We welcome contributions! Follow these steps to contribute:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit changes (`git commit -m "Added new feature"`).
+4. Push to your branch (`git push origin feature-branch`).
+5. Open a Pull Request.
+
+---
+
+## 📧 Contact
+Developed by **[Yohanes Raditya Wirawan Aruan](https://github.com/radityaaruan)**  
+📩 Email: `your.email@example.com`  
+🔗 LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/yohanes-raditya-wirawan-aruan/))
+
+---
+
+🚀 **Stay Organized, Stay Hired with JobMate!**
+
