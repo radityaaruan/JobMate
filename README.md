@@ -1,7 +1,7 @@
 # 👔 JobMate - Your Career Management Solution
 
 
-![JobMate Banner]((https://github.com/radityaaruan/JobMate/edit/master/JobMate.png))
+![JobMate Banner](JobMate.png)
 
 
 Welcome to **JobMate** – a job application tracker and career management platform that helps job seekers stay organized, monitor their applications, and gain insights into their job search progress. 🚀
