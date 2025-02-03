@@ -31,9 +31,9 @@ JobMate dirancang untuk menyederhanakan pelacakan pekerjaan dengan antarmuka yan
 
 ## 📧 Contact
 Developed by 
-**[Yohanes Raditya Wirawan Aruan](https://github.com/radityaaruan)**
-**[Ferryansa](https://github.com/ferryansa)**
-**[Fadhiil]((https://github.com/FadhiilDzaki))**
+**[Yohanes Raditya Wirawan Aruan](https://github.com/radityaaruan)**,
+**[Ferryansa](https://github.com/ferryansa)**,
+**[Fadhiil](https://github.com/FadhiilDzaki)**,
 **[Ruach]((https://github.com/rsakadewa7))**
 **[Zahara](https://github.com/ZaharaJannah)**
 
