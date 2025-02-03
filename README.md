@@ -30,8 +30,15 @@ JobMate dirancang untuk menyederhanakan pelacakan pekerjaan dengan antarmuka yan
 ![Python](https://img.shields.io/badge/Python-3.9-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-1.40-red) ![MongoDB](https://img.shields.io/badge/MongoDB-4.10-green) ![Pandas](https://img.shields.io/badge/Pandas-2.1.4-orange) ![OpenAI](https://img.shields.io/badge/OpenAI-0.28-blue)
 
 ## 📧 Contact
-Developed by **[Yohanes Raditya Wirawan Aruan](https://github.com/radityaaruan)**, **[Ferryansa]((https://github.com/ferryansa))**, **[Fadhiil]((https://github.com/FadhiilDzaki))**, **[Ruach]((https://github.com/rsakadewa7))** and **[Zahara](https://github.com/ZaharaJannah)**
+Developed by 
+**[Yohanes Raditya Wirawan Aruan](https://github.com/radityaaruan)**
+**[Ferryansa](https://github.com/ferryansa)**
+**[Fadhiil]((https://github.com/FadhiilDzaki))**
+**[Ruach]((https://github.com/rsakadewa7))**
+**[Zahara](https://github.com/ZaharaJannah)**
+
 📩 Email: `radityaruan@gmail.com`  
+
 🔗 LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/yohanes-raditya-wirawan-aruan/))
 
 ---
