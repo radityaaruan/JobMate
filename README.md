@@ -31,8 +31,8 @@ JobMate is designed to streamline job tracking with a user-friendly interface an
 ---
 
 ## 🎥 Deployment
-📌 **Hugging Face**: (https://cdn.discordapp.com/attachments/1317028240707158016/1319500970282975303/Screenshot_2024-12-20_at_09.49.42.png?ex=67a1840a&is=67a0328a&hm=a08dacb7771b0174734b2b1cac470113de1fe87c598bf237c4d9990e41069e35&))  
-📽️ **Link**: ![JobMate Demo](https://your-image-url.com/demo.gif)
+📌 **EDA**: ([https://cdn.discordapp.com/attachments/1317028240707158016/1319500970282975303/Screenshot_2024-12-20_at_09.49.42.png?ex=67a1840a&is=67a0328a&hm=a08dacb7771b0174734b2b1cac470113de1fe87c598bf237c4d9990e41069e35&)](https://drive.google.com/file/d/1BFWqrPkQjIF6fXwXpvokbnPjVSLr10Qd/view?usp=sharing))  
+📽️ **Chatbot**: [![JobMate Demo](https://your-image-url.com/demo.gif)](https://drive.google.com/file/d/1-rgw8AC7c7qshwi9VFvdjdrSzK0aabGk/view?usp=sharing)
 
 ---
 
@@ -62,7 +62,7 @@ We welcome contributions! Follow these steps to contribute:
 
 ## 📧 Contact
 Developed by **[Yohanes Raditya Wirawan Aruan](https://github.com/radityaaruan)**  
-📩 Email: `your.email@example.com`  
+📩 Email: `radityaruan@gmail.com`  
 🔗 LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/yohanes-raditya-wirawan-aruan/))
 
 ---
