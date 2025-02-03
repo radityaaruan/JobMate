@@ -23,7 +23,7 @@ JobMate dirancang untuk menyederhanakan pelacakan pekerjaan dengan antarmuka yan
 
 📽️ **Chatbot**: 
 
-[![JobMate Demo](chatbot.png)
+![JobMate Demo](chatbot.png)
 
 ---
 
