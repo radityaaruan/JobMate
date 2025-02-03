@@ -1,7 +1,6 @@
-# 👔 JobMate - Your Career Management Solution
-
-
 ![JobMate Banner](JobMate.png)
+
+# 👔 JobMate - Your Career Management Solution
 
 
 Welcome to **JobMate** – a job application tracker and career management platform that helps job seekers stay organized, monitor their applications, and gain insights into their job search progress. 🚀
@@ -22,18 +21,16 @@ JobMate is designed to streamline job tracking with a user-friendly interface an
 
 ---
 
-## ✨ Features
-✅ **Job Application Tracking** – Keep a structured log of job applications, statuses, and outcomes.  
-✅ **AI-Powered Job Recommendations** – Receive insights on jobs that align with your skills.  
-✅ **Interview Scheduler** – Plan and set reminders for upcoming interviews.  
-✅ **Resume & Cover Letter Manager** – Store and manage important job documents.  
-✅ **Analytics Dashboard** – Visualize job application success rates with interactive charts.  
-✅ **Company Research Notes** – Save key information on companies for future reference.  
-
+## ✨ Flowchart
+![Flowchart_Banner] (FlowChart.png) 
 ---
 
 ## 🎥 Deployment
-📌 **EDA**: ![EDA_Banner](EDA.png)  
+📌 **EDA**: 
+![EDA_Banner1](EDA1.png) 
+![EDA_Banner2](EDA2.png) 
+![EDA_Banner3](EDA3.png) 
+
 📽️ **Chatbot**: [![JobMate Demo](https://your-image-url.com/demo.gif)](https://drive.google.com/file/d/1-rgw8AC7c7qshwi9VFvdjdrSzK0aabGk/view?usp=sharing)
 
 ---
