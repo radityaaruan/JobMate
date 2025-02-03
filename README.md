@@ -31,7 +31,8 @@ JobMate is designed to streamline job tracking with a user-friendly interface an
 ![EDA_Banner2](EDA2.png) 
 ![EDA_Banner3](EDA3.png) 
 
-📽️ **Chatbot**: [![JobMate Demo](https://your-image-url.com/demo.gif)](https://drive.google.com/file/d/1-rgw8AC7c7qshwi9VFvdjdrSzK0aabGk/view?usp=sharing)
+📽️ **Chatbot**: 
+[![JobMate Demo](chatbot.png)
 
 ---
 
