@@ -1,6 +1,7 @@
+# 👔 JobMate - Pencarian karir anda
+
 ![JobMate Banner](JobMate.png)
 
-# 👔 JobMate - Pencarian karir anda
 
 
 Selamat datang di **JobMate** – platform pelacak lamaran kerja dan manajemen karier yang membantu pencari kerja tetap terorganisir, memantau lamaran mereka, serta mendapatkan wawasan mengenai kemajuan pencarian kerja. 🚀
