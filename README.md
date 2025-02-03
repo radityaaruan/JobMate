@@ -1,6 +1,8 @@
 # 👔 JobMate - Your Career Management Solution
 
-![JobMate Banner]([https://your-image-url.com/banner.pn](https://cdn.discordapp.com/attachments/1317028240707158016/1318871309941342249/JobMate.png?ex=67a133df&is=679fe25f&hm=818dd45fdace6ec4314be787d9539fcbc18e0e0fe1e86183dbe1ada17df6422d&)g)
+
+![JobMate Banner](https://raw.githubusercontent.com/username/repository/branch/path/to/image.png)
+
 
 Welcome to **JobMate** – a job application tracker and career management platform that helps job seekers stay organized, monitor their applications, and gain insights into their job search progress. 🚀
 
