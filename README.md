@@ -36,7 +36,7 @@ Developed by
 **[Yohanes Raditya Wirawan Aruan](https://github.com/radityaaruan)**,
 **[Ferryansa](https://github.com/ferryansa)**,
 **[Fadhiil](https://github.com/FadhiilDzaki)**,
-**[Ruach](https://github.com/rsakadewa7)**
+**[Ruach](https://github.com/rsakadewa7)**, and
 **[Zahara](https://github.com/ZaharaJannah)**
 
 📩 Email: `radityaruan@gmail.com`  
