@@ -41,8 +41,7 @@ Developed by
 
 📩 Email: `radityaruan@gmail.com`  
 
-🔗 LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/yohanes-raditya-wirawan-aruan/))
-
+🔗 LinkedIn[Yohanes Raditya Wirawan Aruan](https://www.linkedin.com/in/yohanes-raditya-wirawan-aruan/) 
 ---
 
 🚀 **Stay Organized, Stay Hired with JobMate!**
